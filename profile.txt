@@ -1,3 +1,4 @@
 Nombre: Marcia Hernández
 Edad: 33
 Licenciatura: Diseño
+Estatura: 169cm
